@@ -6,4 +6,22 @@ public class Node<N> {
     public Node next = null;
     public int data;
 
+    public Node(N e){
+        this.value = e;
+    }
+    public N getTurn(){
+        return value;
+    }
+    public void setNext(Node n){
+        this.next=n;
+    }
+    public Node getNext(){
+        return next;
+    }
+    public void setT(N nuevo){
+        this.value=nuevo ;
+    }
+
+
+
 }
