@@ -14,6 +14,7 @@ Diseñar e implementar una calculadora basica para calcular media(Promedio) y de
   - Java SE Development Kit 8.X
   - Java SE Runtime Environment 8.X
   - Astah (si es necesario)
-  - 
+
+<img src="https://github.com/sf-burgos/ArquitecturaEmpresarial/blob/master/laboratorio1AREP-app/resources/Imagenes/Screenshot_1.jpg" width="100" height="100">
 
 
