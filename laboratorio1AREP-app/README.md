@@ -1,5 +1,5 @@
 
- <img src="https://github.com/sf-burgos/ArquitecturaEmpresarial/blob/master/laboratorio1AREP-app/resources/Imagenes/BB.jpg" width="10" height="10">
+ <img src="https://github.com/sf-burgos/ArquitecturaEmpresarial/blob/master/laboratorio1AREP-app/resources/Imagenes/BB.jpg" width="30" height="30">
  
 # Laboratorio 1- Arquitectura empresarial.
 ##### **Presentado por:** **[Brayan Steven Burgos Delgado](https://www.linkedin.com/in/brayan-steven-burgos-delgado-21a9a0178/)**
