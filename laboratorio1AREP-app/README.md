@@ -1,4 +1,4 @@
- ![Log](https://github.com/sf-burgos/ArquitecturaEmpresarial/blob/master/laboratorio1AREP-app/resources/Imagenes/BB.jpg | width=100)
+ ![Log](https://github.com/sf-burgos/ArquitecturaEmpresarial/blob/master/laboratorio1AREP-app/resources/Imagenes/BB.jpg){:height="50%" width="50%"}
  
  
 # Laboratorio 1- Arquitectura empresarial.
